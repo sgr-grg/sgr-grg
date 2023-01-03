@@ -53,9 +53,7 @@
 
 <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
-  <a href="https://github.com/sgr-grg/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sagar Garg streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sgr-grg&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
-  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=sgr-grg&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-grg&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />
 </p>
