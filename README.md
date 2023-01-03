@@ -1,19 +1,30 @@
-<h1 align=center >Hi there, I'm Sagar Garg <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+<h1 align=center >Hi there, I'm Sagar Garg<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+
 <h3 align="center">A passionate Android developer from India</h3>
+
 <img align="right" alt="Coding" width = "500"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
-- :telescope: I’m currently working on **Flutter Project**
-- :seedling: I’m currently learning **Flutter**
-- :dancers: I’m looking to collaborate on **Open Source Project**
-- :computer: The tech I'm interested:
+
+
+- 🔭 I'm currently working on **Flutter Project**
+
+- 🌱 I'm currently learning **Flutter**
+
+- 👯 I'm looking to collaborate on **Open Source Project**
+
+- 💻 The tech I'm interested:
     - Flutter.
-    - Android.
-- :speech_balloon: Ask me about **Flutter, Firebase, API's**
-- :mailbox: How to reach me **sagar11garg@gmail.com.com**
+    - Android
+
+- 💬 Ask me about **Flutter, Android, Firebase, API's**
+
+- 📫 How to reach me **sagar11garg@gmail.com**
+
 <h1 align="center" >Connect with Me</h1>
 <div align="center" >
-[![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/sgr-grg)&nbsp;
+
+[![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/sgr-grg?tab=followers)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgr-grg/)
-</div>
+
 <h1 align="center"> Languages and Tools</h1>
 <div align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -39,19 +50,21 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </a>
 </div>
+
 <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
-  <a href="https://github.com/KhubaibJamal/github-readme-streak-stats">
-    <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Khubaib Jamal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhubaibJamal&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
+  <a href="https://github.com/sgr-grg/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sagar Garg streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sgr-grg&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhubaibJamal&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />
-  <img alt="Khubaib Jamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgr-grg&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />
+  <img alt="Sagar Garg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sgr-grg&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </p>
+
 <h1 align="Center">Visitor's Count & Followers</h1>
 <div align ="Center">
-<a> <img src="https://komarev.com/ghpvc/?username=KhubaibJamal&style=for-the-badge&color=red&label=Profile+Views"
-    alt="KhubaibJamal" />
-</a><a href="https://github.com/KhubaibJamal?tab=followers"><img src="https://img.shields.io/github/followers/KhubaibJamal?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
+<a> <img src="https://komarev.com/ghpvc/?username=sgr-grg&style=for-the-badge&color=red&label=Profile+Views"
+    alt="sgr-grg" /> 
+</a><a href="https://github.com/sgr-grg?tab=followers"><img src="https://img.shields.io/github/followers/sgr-grg?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
 </a>
 </div>
